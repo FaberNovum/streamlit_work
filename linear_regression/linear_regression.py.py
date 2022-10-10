@@ -63,7 +63,7 @@ Several reasons:
 
 ## When to use linear regression?
 
-When you need to predict a continuous value (a number an infinite number of values between any two values).
+When you need to predict a continuous value (a number with an infinite number of values between any two values).
 
 It's really that simple.
 
@@ -84,10 +84,8 @@ Simply put:
 
 Optimization is the iterative improvement of the model.
 
-This improvement happens by using different methods.
+This improvement happens by using different methods:
 
-
-Linear regression has a couple well-known optimization options:
 - Least Squares
 - Gradient Descent
 - Regularization
@@ -113,3 +111,16 @@ We can cover that at another time.
     - Your input values share the same scale.
 
 """
+
+"""
+## Conclusion
+
+So that's it.
+
+One of the most straightforward algorithms in machine learning.
+
+I will probably add a basic code walkthrough so keep an eye out for that.
+
+Thanks for reading.
+"""
+
